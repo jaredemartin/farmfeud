@@ -1,0 +1,104 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+
+}
+h3 {
+  padding-top: 2rem;
+  letter-spacing: -2px;
+  padding-bottom: 2rem;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Unbuntu";
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+/* Top Section */
+
+.top-section {
+  background-color: black;
+  color: white;
+}
+
+.big-heading {
+  color: #fa1616;
+  padding-bottom: 2rem;
+}
+
+/* Banner Image */
+.banner-image {
+  width: 100%;
+  position: center;
+  right: 30%;
+  padding-bottom: 2rem;
+}
+
+/* Characters Section */
+
+.character-section {
+  color: white;
+  font-family: 'Ranchers';
+  background-color: #1aa6b7;
+  padding-bottom: 2rem;
+}
+
+
+
+/* Weapons Section */
+
+.weapon-section {
+  background-color: #ff414d;
+  color: white;
+  font-family: "Carter One";
+  font-weight: bold;
+}
+.weapon {
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+
+/* Boss Section */
+
+.boss-section {
+  background-color: #1aa6b7;
+  color: white;
+  font-family: "Carter One";
+  font-weight: bold;
+}
+
+
+/* Section Headings */
+.section-heading {
+  padding: 2rem;
+}
+
+/* Footer Section */
+
+#footer {
+  background-color: black;
+  color: white;
+  padding-top: 50px 0 20px;
+}
+.copyright {
+  padding: 20px 0;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
